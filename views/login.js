@@ -1,6 +1,7 @@
 /*global $*/
 $(window).ready(function(){
     //add event lisener ok click function
+    //linie noua
     var userContainer = $(".js-login");
     var user = new User();  //ne returneaza un array gol....trebuie instantiata get articles
     var userLogin = user.login();
